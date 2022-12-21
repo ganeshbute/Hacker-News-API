@@ -1,0 +1,6 @@
+com/stories/model/StroryDetails.class
+com/stories/service/StoryServiceImpl.class
+com/stories/model/StoryComments.class
+com/stories/controller/StoriesController.class
+com/stories/service/StoryService.class
+com/stories/SpringBootApplicationToFecthNewsStoriesApplication.class
